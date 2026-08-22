@@ -1,3 +1,3 @@
-# Hi, I'm Erik 👋
+# Hi, I'm Erich 👋
 
 ![My GitHub metrics](/github-metrics.svg)
